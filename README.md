@@ -1,5 +1,5 @@
 # ELearning
-![Flask](https://img.shields.io/badge/Flask--red.svg)  ![Building](https://img.shields.io/badge/-Building-brightgreen.svg)
+![Flask](https://img.shields.io/badge/Flask-0.12.2-red.svg)  ![Building](https://img.shields.io/badge/Project-building-brightgreen.svg)
 
 ** A simple e-learning backend **
 
@@ -74,7 +74,12 @@ If you meet questions when you read this program, you are welcome to contact wit
   - some addtional opertions
 
 ## Waiting to do
-contact operations
+  - contact operations
+  - route optimization
+  - pagination
+  - secure session
 
 ## Change log
 add test module and fix some details
+
+
