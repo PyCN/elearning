@@ -1,5 +1,5 @@
 # ELearning
-![Flask](https://img.shields.io/badge/Flask-0.12.2-red.svg)  ![Building](https://img.shields.io/badge/Project-building-brightgreen.svg)
+![Flask](https://img.shields.io/badge/Flask-0.12.2-red.svg)  ![Updating](https://img.shields.io/badge/Project-updating-brightgreen.svg)
 
 ** A simple e-learning backend **
 
@@ -60,6 +60,7 @@ If you meet questions when you read this program, you are welcome to contact wit
 - tests/
   - test some not all functions
 - \_\_init__.py
+  - salted session implementation
   - create Flask app
 - basic.py/
   - offer some basic opertions
@@ -77,9 +78,7 @@ If you meet questions when you read this program, you are welcome to contact wit
   - contact operations
   - route optimization
   - pagination
-  - secure session
 
 ## Change log
-add test module and fix some details
-
-
+  - add the test module and fix some details
+  - add a salted session choice
